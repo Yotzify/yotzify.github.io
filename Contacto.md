@@ -1,8 +1,4 @@
----
-layout: default
-title: Contacto
-nav_order: 2
----
+
 
 # Información de contacto
 
