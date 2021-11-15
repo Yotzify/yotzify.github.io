@@ -16,9 +16,10 @@ Para lograr esto se utilizan 5 trackers ubicados en partes claves del cuerpo:
 
 La información de cada tracker es enviada mediante una conexión Wi-Fi, evitando así el uso de cables, cámaras o estaciones bases, volviendo a **PeekVR** una opción cómoda y accesible para los usuarios.
 
-> Insertar foto de posicionamiento de cada tracker.
+> **Note:** Insertar foto de posicionamiento de cada tracker.
 
+## Uso y compatibilidad
 
-> Para mayor información sobre el software utilizado, visitar la página oficial de [SlimeVR](https://docs.slimevr.dev/).
+>**Note:** Para mayor información sobre el software utilizado, visitar la página oficial de [SlimeVR](https://docs.slimevr.dev/).
 
 
