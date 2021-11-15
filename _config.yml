@@ -1,6 +1,7 @@
 title: "Documentación PeekVR"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
+markdown: kramdown
 search_enabled: false
 
 # Enable or disable the site search
@@ -8,7 +9,7 @@ search_enabled: false
 search_enabled: true
 
 search:
-  # Split pages into sections that can be searched individually
+  # Split pages into sections tha can be searched individually
   # Supports 1 - 6, default: 2
   heading_level: 2
   # Maximum amount of previews per search result
