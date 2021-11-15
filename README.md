@@ -1,3 +1,9 @@
+---
+layout: default
+title: PeekVR
+nav_order: 1
+---
+
 # PeekVR
 
 **PeekVR** es una solución de hardware para el uso de Full Body Tracking (Seguimiento de Cuerpo Completo) en ambientes de realidad virtual (VR), el cual se encuentra basado en el software **SlimeVR**.
