@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: PeekVR
+nav_order: 1
+---
 
 # PeekVR
 
