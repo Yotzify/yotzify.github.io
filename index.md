@@ -26,6 +26,9 @@ La información de cada tracker es enviada mediante una conexión Wi-Fi, evitand
 
 ## Uso y compatibilidad
 
->Para mayor información sobre el software utilizado, visitar la página oficial de [SlimeVR](https://docs.slimevr.dev/).
+PeekVR es compatible con juegos y aplicaciones de VR, principalmente apps de avatares utilizadas para transmitir y relacionados con el ambito VTubing o VStreamer. Así mismo puede ser utilizado en juegos de SteamVR como VRchat y Blade & Sorcery.
+
+
+>Para mayor información sobre el software utilizado y sus capacidades, visitar la página oficial de [SlimeVR](https://docs.slimevr.dev/).
 
 
